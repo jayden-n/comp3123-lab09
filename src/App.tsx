@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import reactPic from "./assets/react.svg";
-import UserInfo from "./components/userInfo";
+import UserInfo from "./components/UserInfo";
 
 // define user info types
 export interface IUser {
